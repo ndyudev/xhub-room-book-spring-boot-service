@@ -21,7 +21,7 @@
 
 ## 📖 Giới thiệu
 
-**XHub Room Booking System** là một ứng dụng web hoàn chỉnh được xây dựng bằng Spring Boot, cung cấp giải pháp quản lý đặt phòng khách sạn hiện đại và hiệu quả. Dự án này kết hợp backend mạnh mẽ với frontend responsive để tạo ra trải nghiệm người dùng tuyệt vời.
+**XHub Room Booking System** là một ứng dụng web hoàn chỉnh được xây dựng bằng Spring Boot, cung cấp giải pháp quản lý đặt phòng học hiện đại và hiệu quả. Dự án này kết hợp backend mạnh mẽ với frontend responsive để tạo ra trải nghiệm người dùng tuyệt vời.
 
 ### 🎯 Tính năng chính
 - ✅ **Quản lý phòng**: Thêm, sửa, xóa, tìm kiếm phòng
